@@ -173,7 +173,7 @@ Provides a tree of all browsing contexts descending from the parent browsing con
 {{< tabpane text=true >}}
 {{< tab header="Java" >}}
 {{< badge-version version="4.8" >}}
-{{< gh-codeblock path="/examples/java/src/test/java/dev/selenium/bidirectional/webdriver_bidi/BrowsingContextTest.java#L102-L105" >}}
+{{< gh-codeblock path="/examples/java/src/test/java/dev/selenium/bidirectional/webdriver_bidi/BrowsingContextTest.java#L102-L107" >}}
 {{< /tab >}}
 {{< tab header="Ruby" >}}
 {{< badge-code >}}
